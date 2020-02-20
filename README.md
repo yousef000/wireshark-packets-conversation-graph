@@ -8,6 +8,6 @@ Creates a conversation graph of Wireshark captured packets.
 
 3- Go to File -> Export Packet Dissections -> As CSV. Save the file as 'pcap.csv' in this code's directory. 
 
-4- Run the code. The graph will be exported as network_diagram.jpg
+4- Run the code. The graph will be exported as network_diagram.png
 
 
